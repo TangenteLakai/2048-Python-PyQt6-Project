@@ -2,7 +2,7 @@
 # Installation 
 
 ### Option 1: Download  
-Download the `.exe` from **Mediafire**: **[DOWNLOAD](https://mediafire.com)**  
+Download the `.exe` from **Mediafire**: **[DOWNLOAD](https://www.mediafire.com/file/b7jnyl54sbtseoi/2048_v1.0.exe/file)**  
 
 ### Option 2: Clone and Install  
 1. Clone the repository:  
